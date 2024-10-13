@@ -457,6 +457,6 @@ def prediction():
 def statistics():
     pass
 def about():
-    st.write("This is the project that is done by M. Vandith Reddy, KVS. Siddhartha, K Deepak Srinivas")
+    st.write("This is the project that is done by Mohammed Imran, Harsha Bollineni")
 if __name__=="__main__":
     main() 
