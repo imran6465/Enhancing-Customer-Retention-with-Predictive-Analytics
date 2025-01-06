@@ -41,7 +41,7 @@ Getting Started
     
     Copy code
     
-    `git clone https://github.com/your_username/customer-attrition-prediction.git cd customer-attrition-prediction`
+    `git clone https://github.com/imran6465/customer-attrition-prediction.git cd customer-attrition-prediction`
     
 2.  Install dependencies:
     
